@@ -98,7 +98,7 @@ ol {
           animation: arrowBounceLeft 0.3s forwards;
 }
 
-@media (max-width: 590px) {
+@media (max-width: 600px) {
   .back-button {
     left: 30px;
   }
@@ -124,7 +124,7 @@ ol {
   border-radius: 12px;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 900px) {
   .image-frame--chooseday {
     width: 184px;
   }
@@ -143,7 +143,7 @@ ol {
 .image-frame__buttons {
   top: 3px;
   left: 7px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .image-frame__buttons--mobile {
@@ -177,7 +177,7 @@ ol {
   height: 28px;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 900px) {
   .image-frame__buttons--chooseday {
     top: auto;
     left: 50%;
@@ -191,7 +191,7 @@ ol {
   }
 }
 
-@media (max-width: 590px) {
+@media (max-width: 600px) {
   .image-frame {
     border-color: #EEE;
     border-width: 1px 0;
@@ -295,13 +295,13 @@ ol {
   margin: 0 auto;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 900px) {
   .site-container {
-    width: 590px;
+    width: 600px;
   }
 }
 
-@media (max-width: 590px) {
+@media (max-width: 600px) {
   .site-container {
     width: 100%;
   }
@@ -312,13 +312,13 @@ ol {
   height: 405px;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 900px) {
   .video-frame {
     height: 332px;
   }
 }
 
-@media (max-width: 590px) {
+@media (max-width: 600px) {
   .video-frame {
     height: 350px;
   }
@@ -383,10 +383,10 @@ ol {
 }
 
 .u-font-size-s {
-  font-size: 16px;
+  font-size: 17px;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 900px) {
   .u-font-size-xxl {
     font-size: 30px;
   }
@@ -400,11 +400,11 @@ ol {
   }
 
   .u-font-size-m {
-    font-size: 16px;
+    font-size: 17px;
   }
 
   .u-font-size-s {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 
@@ -499,14 +499,14 @@ ol {
   margin: 0 auto;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 900px) {
   .u-md-nudge-T2 {
     position: relative;
     top: 2px;
   }
 }
 
-@media (max-width: 590px) {
+@media (max-width: 600px) {
   .u-sm-display-none {
     display: none;
   }
@@ -871,14 +871,14 @@ ol {
   margin-bottom: 0;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 900px) {
   .u-md-margin-Vn {
     margin-top: 0;
     margin-bottom: 0;
   }
 }
 
-@media (max-width: 590px) {
+@media (max-width: 600px) {
   .u-sm-margin-Tn {
     margin-top: 0;
   }
