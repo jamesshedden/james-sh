@@ -325,12 +325,12 @@ ol {
 }
 
 .u-text-heading {
-  font-family: Bagnard;
+  font-family: Bagnard, Georgia, Times, serif;
   font-weight: normal;
 }
 
 .u-text-base {
-  font-family: GT Walsheim;
+  font-family: GT Walsheim, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
 
