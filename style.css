@@ -39,12 +39,12 @@ p {
 }
 
 .text-heading {
-  font-family: Founders Grotesk;
-  font-weight: 600;
+  font-family: Founders Grotesk, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
 
 .text-base {
-  font-family: Inter;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
 
