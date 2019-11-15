@@ -49,6 +49,10 @@ p {
   color: #5092DA;
 }
 
+.company-heading {
+  line-height: 0.8;
+}
+
 p {
   font-family: Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -232,6 +236,11 @@ small {
         margin: 0 auto;
         padding: 40px 20px;
     }
+
+    .company-heading {
+        line-height: unset;
+    }
+
 
     p {
         font-size: 16px;
